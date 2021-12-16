@@ -3,6 +3,9 @@
 ## Discription
 GK3D is an open-ended project of developing new methods of designing in 3D-Space. It is mainly focused on the ways of taking uncontrollable elements into the designing process in 3D-Space in real-time.
 
+Project Page: https://github.com/ihsiag/GK3D
+Author's Portfolio Page: https://instagram.con/ishiag
+
 This software is an alpha version, and is unsupported.
 Use at your own risk.
 
