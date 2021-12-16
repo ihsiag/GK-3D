@@ -9,6 +9,6 @@ Use at your own risk.
 ## Abstruct
 This software contains three phases for designing an object.
 
-1.LABORATORY-PHASE
-1.SELECTING-PHSASE
-1.MODELING-PHASE
+1. LABORATORY-PHASE
+1. SELECTING-PHSASE
+1. MODELING-PHASE
